@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bagefly.github.io</id>
+    <title>八神博客</title>
+    <updated>2020-10-26T08:20:52.373Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bagefly.github.io"/>
+    <link rel="self" href="https://bagefly.github.io/atom.xml"/>
+    <subtitle>IT技术精进聚集地</subtitle>
+    <logo>https://bagefly.github.io/images/avatar.png</logo>
+    <icon>https://bagefly.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 八神博客</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello 8GodBlog]]></title>
+        <id>https://bagefly.github.io/post/hello-8godblog/</id>
+        <link href="https://bagefly.github.io/post/hello-8godblog/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>8GodBlog</strong> ！<br>
+✍️  <strong>8GodBlog</strong> 一个IT技术精进聚集地... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>8GodBlog</strong> ！<br>
+✍️  <strong>8GodBlog</strong> 一个IT技术精进聚集地... ...</p>
+]]></content>
+    </entry>
+</feed>
